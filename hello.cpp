@@ -3,7 +3,12 @@
 using namespace std;
 
 int main(){
-	cout<<"Hello git!"<<endl;
+	for(int i = INT32_MIN ;i < INT32_MAX;++i){
+
+		cout<<"Hello git!"<<endl;
+
+	}
+
 	return 0;
 
 }
