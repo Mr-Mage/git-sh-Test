@@ -3,8 +3,12 @@
 using namespace std;
 
 int main(){
-	while(1){
+	for(int i = INT32_MIN ;i < INT32_MAX;++i){
+
 		cout<<"Hello git!"<<endl;
+
+	}
+
 	return 0;
 
 }
