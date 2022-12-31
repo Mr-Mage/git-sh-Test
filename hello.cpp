@@ -3,7 +3,8 @@
 using namespace std;
 
 int main(){
-	cout<<"Hello git!"<<endl;
+	while(1){
+		cout<<"Hello git!"<<endl;
 	return 0;
 
 }
